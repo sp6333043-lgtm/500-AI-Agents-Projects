@@ -1,0 +1,3 @@
+## 2024-05-24 - Descriptive Alt Text for Markdown Repositories
+**Learning:** Repositories focused on lists, curations, and technical documentation often rely on diagrams and banners in `README.md` to communicate core concepts (e.g., MindMaps for categories). However, authors frequently leave alt text empty (`![]()`) or use generic placeholders (`![img]()`), causing screen reader users to miss critical structural context about what the repository covers.
+**Action:** Always scan `.md` files for informative and decorative images and ensure that diagrams summarizing content (like MindMaps) have descriptive alt text that outlines the key nodes or purpose of the visual, making the documentation fully accessible to all developers.
